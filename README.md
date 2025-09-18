@@ -1,3 +1,3 @@
 # My_Things
 
-[Download my CV](https://github.com/<Endre_LLF/My_Things/raw/main/CV_Endre.pdf)
+[Download my CV](https://github.com//Endre-LLF/My_Things/blob/main/Endre_Vincze.pdf)
