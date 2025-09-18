@@ -1,3 +1,3 @@
 # My_Things
 
-[Download my CV](docs/CV_Endre.pdf)
+[Download my CV](Endre_Vincze.pdf)
